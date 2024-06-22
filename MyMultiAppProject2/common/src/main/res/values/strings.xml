@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMultiAppProject</string>
+    <string name="product_image_desc">Product Image</string>
+    <string name="title">Catalogs Apps</string>
+</resources>
