@@ -58,7 +58,7 @@ Abstract activity that provides a template for displaying a list of products.
 Manages a list of Apple products.
 
 #### `Activity_panel` Class
-Extends `CommonActivity` to display Apple products.
+Extends `Activity_PanelBase` to display Apple products.
 
 ### Samsung Catalog App
 
