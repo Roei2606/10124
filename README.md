@@ -66,4 +66,4 @@ Extends `CommonActivity` to display Apple products.
 Manages a list of Samsung products.
 
 #### `Activity_panel` Class
-Extends `CommonActivity` to display Samsung products.
+Extends `Activity_PanelBase` to display Samsung products.
